@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dOaheB4jRvVIC0FnHotiCuflEu2bl1a08wOO20e2S2lp/6vou3dUhBRNN91uqqEaZ5M3b+S51PGbdWasUkWH8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toni Leko\\source\\repos\\LeonoraFB\\LeonoraFB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toni Leko\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\7.0.5\\microsoft.aspnetcore.authentication.facebook.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
